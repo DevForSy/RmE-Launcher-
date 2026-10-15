@@ -1,0 +1,8 @@
+.venv/
+venv/
+dist/
+build/
+__pycache__/
+*.pyc
+*.spec
+assets/icon.ico
