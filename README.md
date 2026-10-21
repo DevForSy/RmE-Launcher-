@@ -13,7 +13,5 @@ Discord status works if you have the desktop app running, and you'll need to ena
 Everything else works completely offline.
 If something breaks or a game doesn't show up, let me know.
 
-Discord : ji.e.
-
 - # DevForSy
 
